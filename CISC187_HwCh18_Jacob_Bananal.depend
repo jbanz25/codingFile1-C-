@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1523962842 source:c:\users\jacob bananal\documents\codeblock\cisc187_hwch18_jacob_bananal\capitalletterslist.cpp
+	<iostream>
+	<iomanip>
+	"CapitalLettersList.h"
+
+1523960114 c:\users\jacob bananal\documents\codeblock\cisc187_hwch18_jacob_bananal\capitalletterslist.h
+	<iostream>
+
+1523963012 source:c:\users\jacob bananal\documents\codeblock\cisc187_hwch18_jacob_bananal\main.cpp
+	<iostream>
+	<iomanip>
+	"CapitalLettersList.h"
+
+1523931387 source:c:\users\jacob bananal\documents\codeblock\cisc187_hwch18_jacob_bananal\capitalletterslist.h
+	<iostream>
+

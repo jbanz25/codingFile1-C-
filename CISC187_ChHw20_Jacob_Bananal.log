@@ -1,0 +1,5 @@
+﻿  CISC187_ChHw20_Jacob_Bananal.cpp
+  CapitalLetter.cpp
+  Generating Code...
+c:\users\jacob bananal\source\repos\cisc187_chhw20_jacob_bananal\cisc187_chhw20_jacob_bananal\capitalletter.cpp(119): warning C4715: 'CapitalLetter::insertNode': not all control paths return a value
+  CISC187_ChHw20_Jacob_Bananal.vcxproj -> c:\users\jacob bananal\source\repos\CISC187_ChHw20_Jacob_Bananal\Debug\CISC187_ChHw20_Jacob_Bananal.exe

@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1521550817 source:c:\users\jacob bananal\documents\codeblock\cisc187_ch13hw_jacob_bananal\inventory.cpp
+	<iostream>
+	<iomanip>
+	<string>
+	<cstdlib>
+	"Inventory.h"
+
+1521550817 c:\users\jacob bananal\documents\codeblock\cisc187_ch13hw_jacob_bananal\inventory.h
+	<string>
+
+1521550852 source:c:\users\jacob bananal\documents\codeblock\cisc187_ch13hw_jacob_bananal\main.cpp
+	<iostream>
+	<iomanip>
+	<string>
+	<cstdlib>
+	"Inventory.h"
+

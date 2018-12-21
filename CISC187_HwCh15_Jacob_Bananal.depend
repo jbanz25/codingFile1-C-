@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1522756472 source:c:\users\jacob bananal\documents\codeblock\cisc187_hwch15_jacob_bananal\programmingproject.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	"GradedActivity.h"
+	"ProgrammingProject.h"
+
+1522756854 c:\users\jacob bananal\documents\codeblock\cisc187_hwch15_jacob_bananal\gradedactivity.h
+
+1522756659 c:\users\jacob bananal\documents\codeblock\cisc187_hwch15_jacob_bananal\programmingproject.h
+
+1522756659 source:c:\users\jacob bananal\documents\codeblock\cisc187_hwch15_jacob_bananal\gradedactivity.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	"GradedActivity.h"
+
+1522753424 source:c:\users\jacob bananal\documents\codeblock\cisc187_hwch15_jacob_bananal\main.cpp
+	<iostream>
+	<string>
+	<iomanip>
+	"GradedActivity.h"
+	"ProgrammingProject.h"
+
